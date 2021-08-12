@@ -1,0 +1,6 @@
+Circle 10
+Square 30
+Triangle 10.4 20.1
+ShapeWithInvalidName and has some random argumnets
+Triangle 30.24 10.30
+Rectangle 300 29
